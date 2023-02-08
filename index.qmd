@@ -1,0 +1,259 @@
+---
+book:
+  title: "Bacteriologia para Itatijuca"
+  author: "Luiz Gustavo de Almeida"
+  format: html
+  editor: visual
+  crossref:
+    chapters: true
+---
+
+# Meios de cultura
+
+A história dos meios de cultura para bactérias começa no século XIX, quando os cientistas começaram a se interessar pelo cultivo de bactérias com o objetivo de estudá-las. No início, os meios de cultura eram simples e consistiam em soluções de água e açúcar ou caldo de carne.
+
+Em 1881, o médico alemão Robert Koch desenvolveu o primeiro meio de cultura sólido ao adicionar ágar, uma substância extraída das algas, ao caldo de carne. Isso permitiu que as bactérias fossem cultivadas em placas, tornando mais fácil para os cientistas observá-las e estudá-las.
+
+No início do século XX, os cientistas começaram a desenvolver meios de cultura líquidos e sólidos mais complexos, adicionando nutrientes e vitaminas para promover o crescimento de diferentes tipos de bactérias.
+
+Eles podem ser sólidos ou líquidos e geralmente incluem macronutrientes, como carbono, nitrogênio, fósforo e enxofre, e micronutrientes, como vitaminas, sais minerais e oligoelementes.
+
+A preparação dos meios de cultura pode ser feita de diversas maneiras, dependendo do tipo de bactéria e do objetivo do estudo. Em geral, os meios de cultura são preparados a partir de ingredientes crudos, como farinha de trigo, leite em pó, caldo de carne e extratos vegetais, misturados com água destilada e aquecidos a uma temperatura adequada. Em seguida, os meios são autoclavados para eliminar qualquer microrganismo presente e esterilizar o meio.
+
+Alguns meios de cultura são modificados para serem seletivos, que permitem o crescimento de uma espécie específica de bactéria, ou diferenciais, que permitem a identificação de bactérias com base em suas características de crescimento.
+
+É importante seguir as instruções de preparo com precisão e esterilizar adequadamente os meios de cultura para garantir a pureza e a qualidade das culturas bacterianas.
+
+## Meio rico e meio definido (mínimo) {#sec-meio-rico-e-meio-definido}
+
+Meios ricos são aqueles que contêm uma grande variedade de nutrientes e outras substâncias necessárias para o crescimento e reprodução de bactérias. Eles geralmente incluem aminoácidos, sais minerais, vitaminas e outros componentes que fornecem as condições ideais para o crescimento de uma variedade de bactérias.
+
+Meios mínimos, por outro lado, contêm apenas os nutrientes essenciais e as condições mínimas necessárias para o crescimento de uma bactéria específica. Eles são usados para identificar as necessidades nutricionais de uma bactéria e para estudar sua biologia.
+
+Alguns exemplos de meios ricos incluem meio de nutrientes completos (Luria-Bertani), meio de nutrientes geral (NB) e meio de caldo de frango (TSB). Já alguns exemplos de meios mínimos incluem o meio de M9 (utilizado para a cultura de bactérias como E.coli) e o meio de Davis (utilizado para a cultura de bactérias do gênero Streptococcus).
+
+## Macro e micronutientes {#sec-macro-e-micronutientes}
+
+Os macronutrientes são nutrientes essenciais em grandes quantidades para o crescimento e reprodução de bactérias. Eles incluem carbono, nitrogênio, fósforo e enxofre. O carbono é usado como fonte de energia e como matéria-prima para a construção de moléculas orgânicas, como carboidratos, lipídios e proteínas. O nitrogênio é necessário para a síntese de proteínas e ácidos nucléicos. O fósforo é importante para a formação de moléculas de adenosina trifosfato (ATP) e outros compostos energéticos. O enxofre é necessário para a síntese de proteínas e outros compostos orgânicos.
+
+Os micronutrientes são nutrientes essenciais em pequenas quantidades para o crescimento e reprodução de bactérias. Eles incluem vitaminas, sais minerais e oligoelementos. As vitaminas são compostos orgânicos essenciais para a bactéria, incluindo as vitaminas do complexo B, vitamina C e vitamina K. Os sais minerais incluem cálcio, ferro e zinco. Os oligoelementos incluem cobre, iodo e selênio. Estes micronutrientes são necessários para uma variedade de funções biológicas, incluindo a síntese de proteínas, a geração de energia e a proteção contra os danos celulares.
+
+## Esterilização {#sec-esterilização}
+
+Esterilização é o processo de eliminar microrganismos, incluindo bactérias, fungos e vírus, em um objeto ou material. A esterilização é importante para garantir a pureza de meios de cultura, instrumentos médicos e outros materiais que entram em contato com culturas vivas ou pacientes.
+
+Existem vários métodos de esterilização, como calor, radiação e química. O método mais comum é a esterilização por calor, que pode ser realizada por meio de autoclave, óxido de etileno ou calor seco.
+
+Veja a @sec-preparaMeio para acompanhar o passo a passo do preparo e esterelização do meio TGE.
+
+É importante seguir as instruções do fabricante e monitorar regularmente a eficácia da esterilização, usando indicadores de esterilização.
+
+1.  Meios de cultura
+
+    a.  de onde vieram
+
+    b.  como foram elaborados, em que época
+
+    c.  necessidades metabólica das bactérias
+
+    d.  macronutirentes, micronutrientes
+
+    e.  meio seletivo, meio rico, meio mínimo.
+
+    f.  Conceitos de esterelização
+
+2.  Cultivo de bactérias
+
+    1.  Explicar crescimento bacteriano, UFC, clones,
+
+    2.  como calcular taxa de crescimento e tempo de geração com fórmulas
+
+    3.  Pensar se vale a pena falar sobre transcrição, tradução, utilizar o site [PHET](https://phet.colorado.edu/pt_BR/simulations/gene-expression-essentials)
+
+3.  Estrutura das bactérias e metabolismo bacteriano
+
+    1.  Livro da helo, aulas do gegório e marílis, livro marilis
+
+    2.  ATPase, ciclo krebs aberto, fechado, cadeia de transporte de eletrons, vídeos,
+
+4.  Preservação de bactérias na coleção do lab
+
+    1.  Conceitos de morte celular, mutações, produção de metabólitos secundários
+
+5.  Ostara
+
+    1.  Característica das bactérias utilizadas
+
+        1.  Outros produtos que bactérias são utilizadas
+
+    2.  conceitos dos conservantes
+
+    3.  conceitos das garantias
+
+    4.  Metabólitos produzidos
+
+    5.  Ações nas plantas
+
+    6.  Ação em nematóides
+
+# Crescimento e estrutura de bactérias
+
+O crescimento bacteriano é um processo contínuo onde uma bactéria se divide e se reproduz, formando colônias. O crescimento bacteriano é influenciado por diversos fatores, incluindo temperatura, pH, umidade e disponibilidade de nutrientes.
+
+A fase inicial do crescimento bacteriano é chamada de fase de lag, onde as bactérias se adaptam ao novo ambiente e começam a se reproduzir lentamente. Durante essa fase, as bactérias estão se preparando para o crescimento exponencial, onde ocorre uma rápida divisão celular e formação de colônias.
+
+Na fase de crescimento exponencial, as bactérias se dividem a uma taxa constante, e a população aumenta rapidamente. A taxa de crescimento depende de vários fatores, como a disponibilidade de nutrientes e a temperatura. Durante essa fase, a maioria das bactérias se encontra em fase logarítmica, o que significa que o número de bactérias está aumentando exponencialmente.
+
+A fase final do crescimento bacteriano é chamada de fase estacionária, onde o número de bactérias se estabiliza devido a limitações de nutrientes e outros fatores ambientais. Nessa fase, as bactérias deixam de se dividir e começam a morrer. Finalmente, a fase de declínio ocorre, onde o número de bactérias diminui rapidamente devido à falta de nutrientes e outros fatores.
+
+Em resumo, o crescimento bacteriano é um processo contínuo que consiste em três fases principais: fase de lag, crescimento exponencial e declínio. A taxa e o tempo de crescimento variam de acordo com as condições ambientais e a disponibilidade de nutrientes.
+
+## Estrutura das células bacterianas
+
+As células bacterianas são as unidades estruturais e funcionais dos seres vivos mais simples e mais antigos existentes na Terra. Sua estrutura é simples, mas muito eficiente. Elas são procariontes, ou seja, não possuem núcleo delimitado por membrana nuclear.
+
+A parede celular é a principal estrutura que dá forma e proteção à célula bacteriana. É composta principalmente por peptidoglicano, uma molécula de polissacarídeo-proteína que oferece rigidez à célula e a protege contra pressões osmóticas. Algumas bactérias possuem uma camada externa adicional chamada de camada lipídica, que os protege contra agentes antimicrobianos.
+
+O citoplasma é o ambiente interno da célula bacteriana onde ocorrem todas as reações metabólicas. Ele é composto principalmente de água e contém enzimas, proteínas e outras moléculas orgânicas. O citoplasma contém também um orgão especializado chamado ribossomos, responsáveis pela síntese proteica.
+
+As bactérias também possuem uma estrutura chamada de flagelo, que é responsável pela motilidade celular. Ele é composto por proteínas e é responsável por fazer com que a célula se mova. Algumas bactérias possuem também pili, estruturas curtas e finas que ajudam na aderência à superfícies e na troca de informações genéticas com outras bactérias.
+
+Outra estrutura presente nas células bacterianas é o plasmídeo, que é um fragmento de DNA extra-genômico que contém informações importantes, como resistência a antibióticos e capacidade de degradar compostos orgânicos.
+
+As bactérias também podem possuir orgãos como cílios e flagelos, que lhes permitem se mover e se deslocar através do meio para encontrar nutrientes e evitar predadores. Algumas bactérias possuem uma camada externa adicional chamada de camada lipídica, que os protege contra agentes antimicrobianos.
+
+Em resumo, as células bacterianas possuem estruturas simples mas eficientes, como a parede celular, o citoplasma e os orgãos de motilidade. Essas estruturas permitem que as bactérias sejam capazes de se adaptar e sobreviver em diversos ambientes, incluindo a resistência a antimicrobianos.
+
+# Capítulos práticos {#sec-capítulos-práticos}
+
+1.  Preparo dos meios de cultura que mais utilizmos na itatijuca
+
+    a.  protocolo passo-a-passo com figuras
+
+    b.  detalhar todos os reagentes e para o que serve para a bactéria
+
+    c.  trazer visão econômica
+
+    d.  links e referências para saber mais
+
+------------------------------------------------------------------------
+
+# Preparo dos meios de cultura que mais utilizmos na itatijuca {#sec-preparaMeio}
+
+1.  Em primeiro lugar, é necessário preparar a solução de TGE. Isso pode ser feito misturando os ingredientes
+
+    a.  TGE: Triptona, Glicose e Extrato de levedura com água destilada em uma proporção de 3:1:3.
+
+        -   3 gramas de Triptona / L
+
+        -   1 grama de Glicose / L
+
+        -   3 gramas de extrato de levedura / L
+
+    b.  GY: Glicose e Extrato de levedura com água destilada em uma proporção de 2:1.
+
+        -   20 gramas de Glicose / L
+
+        -   10 gramas de Extrato de levedura / L
+
+2.  Agite a misture até que o pó de meio de cultura esteja completamente dissolvido.
+
+3.  Despeje a solução preparada em frascos de cultura ou garrafas de meio de cultura, e assegure-se de deixar espaço suficiente para que a solução possa expandir durante a esterelização. Cerca de metade da capacidade máxima do frasco
+
+4.  Feche os frascos ou garrafas e assegure-se de que as tampas estejam bem apertadas.
+
+5.  Leve os frascos ou garrafas para uma autoclave e inicie o ciclo de esterelização a 121 ºC por 15-20 minutos.
+
+6.  Depois de esterelizado, retire os frascos ou garrafas da autoclave com luvas de proteção e deixe esfriar completamente antes de usá-los para cultivar bactérias. Certifique-se de que as tampas estejam bem apertadas para evitar a contaminação durante o armazenamento.
+
+![](img/TGE%20Medium%20Preparation.png){#fig-TGEpreparation fig-align="center" width="738"}
+
+------------------------------------------------------------------------
+
+# Técnicas de contagem de UFC {#sec-técnicas-de-contagem-de-ufc}
+
+## Diluição seriada {#sec-diluição-seriada}
+
+1.  Comece com um cultivo de bactérias em meio líquido e que concentração é desconhecida.
+
+2.  Retire uma alíquota de 1ml do cultivo de bactérias e adicione-a a 9ml de solução tampão estéril ou meio de cultura fresco, agitando bem para misturar.
+
+3.  Isso resultará em uma diluição de 10\^-1 (1:10).
+
+4.  Repita o processo de adicionar 1ml dessa nova solução diluída a outra solução tampão estéril (ou meio de cultura fresco) para obter uma diluição de 10\^-2 (1:100).
+
+5.  Continue repetindo o processo até obter as diluições desejadas. É importante identificar corretamente cada diluição.
+
+6.  Aplique uma alíquota de 100 𝝻l (0.1 ml) de cada diluição em placas de Petri com o meio de cultura estéril desejado.
+
+7.  Incube as placas de Petri a temperatura e condições adequadas para o crescimento da bactéria.
+
+8.  Contar o número de colônias que surgiram nas placas e usar essa informação para calcular a concentração de bactérias inicial na amostra original em UFC/ml.
+
+![](img/diluicaoSeriada.png){#fig-diluicaoSeriada fig-align="center" width="706"}
+
+------------------------------------------------------------------------
+
+## Relação entre absorbância e UFC {#sec-relação-entre-absorbância-e-ufc}
+
+1.  Comece medindo a absorbância das amostras de bactérias com um espectrofotômetro de microplacas. Use a frequência de absorção adequada para a bactéria em questão.
+
+2.  Calcule a densidade óptica (OD) da amostra, dividindo a absorbância pela comprimento da célula (geralmente 1 cm).
+
+3.  Realize uma diluição seriada da amostra, usando o procedimento descrito anteriormente, e aplique uma alíquota de cada diluição em placas de Petri esterelizadas com o meio de cultura desejado.
+
+4.  Incube as placas de Petri a temperatura e condições adequadas para o crescimento da bactéria.
+
+5.  Contar o número de colônias que surgiram nas placas e usar essa informação para calcular a concentração de bactérias inicial na amostra original.
+
+6.  Calcule a contagem de unidades formadoras de colônias (UFC) dividindo a concentração de bactérias inicial pelo volume da alíquota aplicada nas placas.
+
+7.  Para converter a densidade óptica em UFC, é necessário estabelecer uma relação entre OD e UFC através de ensaios padronizados. Utilize essa relação para converter a OD da amostra em UFC.
+
+![](img/Rela%C3%A7%C3%A3o%20entre%20Absorb%C3%A2ncia%20e%20UFC.png){#fig-relacaoDO-UFC fig-align="center" width="829"}
+
+------------------------------------------------------------------------
+
+# Coloração de Gram {#sec-coloração-de-gram}
+
+1.  Comece com uma amostra de bactérias colhida e colocada em uma lâmina de vidro.
+
+2.  Adicione uma gota de solução de crystal violet (cristal violeta) na amostra e deixe-a descansar por 1 minuto.
+
+3.  Adicione uma gota de solução de decolorante (ácido clorídrico a 10% ou álcool) e esfregue a amostra com uma espátula para remover o crystal violet.
+
+4.  Enxágue a amostra com água destilada e adicione uma gota de solução de safranina.
+
+5.  Observe a amostra com microscópio e determine se é Gram-positiva ou Gram-negativa.
+
+6.  Bactérias Gram-positivas apresentam-se violeta devido à retenção do crystal violet, enquanto as Gram-negativas são vermelhas ou incolores devido à sua capacidade de decolorar o crystal violet.
+
+É importante lembrar que essa técnica de coloração de gram é apenas uma das técnicas para identificar bactérias e não é confiável para todas as espécies. Além disso, as amostras devem ser sempre manipuladas em condições estéreis.
+
+![](img/Colora%C3%A7%C3%A3o%20de%20Gram.png){#fig-gram fig-align="center" width="768"}
+
+------------------------------------------------------------------------
+
+1.  como cultivar em aerobióse
+
+    1.  anaerobiose - camera de co2, vela
+
+    2.  
+
+2.  Amazenamento de bactérias na coleção
+
+    a.  Procedimentos e insumos utilizados explicando o motivo de cada um, proporção e mais detalhes
+
+    b.  Tempo de armazenamento antes de refazer a coleção
+
+3.  Procedimentos Ostara
+
+    1.  Meios de cultura
+
+    2.  Bactérias
+
+    3.  Tempo de cultivo
+
+    4.  Conservantes
+
+    5.  Garantias
